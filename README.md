@@ -1,6 +1,6 @@
 # Agile Manifesto
 
-A react/electron project where users can see and modify agile values and principles
+A react/electron project where users can add, modify and delete agile values and principles
 
 ![title](thumbnail.png)
 
