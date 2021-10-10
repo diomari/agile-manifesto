@@ -1,0 +1,18 @@
+.input-item {
+  width: 100%;
+  background: #000;
+  border: 2px solid #222;
+  resize: none;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 10px;
+  font-size: 1rem;
+  height: 90px;
+}
+
+.add-actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 10px 0;
+}
