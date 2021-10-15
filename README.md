@@ -14,6 +14,10 @@ There's an `env.example` file added, please rename it to `.env` in order to get 
 
 In the project directory, you can run:
 
+### `yarn install`
+
+Install project dependencies
+
 ### `yarn electron`
 
 Runs the app in electron.\
